@@ -1,4 +1,4 @@
-# phpdotenv
+# phpdotenv-simple
 
 
 ### How to use
