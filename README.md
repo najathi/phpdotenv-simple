@@ -3,7 +3,7 @@
 
 ### How to use
 ```
-copy the .env.example and rename the file to .env
+copy the `.env.example` file and rename the file to `.env`
 ```
 
 ### install
