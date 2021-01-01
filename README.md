@@ -1,5 +1,11 @@
 # phpdotenv
 
+
+### How to use
+```
+copy the .env.example and rename the file to .env
+```
+
 ### install
 `composer install`
 
