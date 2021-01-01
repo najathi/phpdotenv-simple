@@ -1,0 +1,17 @@
+{
+    "name": "najathi/php-dotenv",
+    "description": "Parses .env files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M. Najathi"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DevCoder\\": "src"
+        }
+    },
+    "require": {}
+}
